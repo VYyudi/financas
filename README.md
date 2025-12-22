@@ -5,8 +5,7 @@ Sistema web para controle financeiro pessoal com visualização de receitas, des
 ## 🚀 Tecnologias
 
 - **Frontend:** React, Recharts, Tailwind CSS
-- **Backend:** Spring Boot, PostgreSQL (opcional)
-- **Armazenamento:** LocalStorage (versão atual)
+- **Backend:** Spring Boot
 
 ## 📦 Funcionalidades
 
@@ -25,8 +24,8 @@ npm start
 
 ## 📸 Screenshots
 
-(Adicione prints aqui depois)
+(prints aqui depois)
 
 ## 👨‍💻 Autor
 
-Victor Yudi Hagui - [LinkedIn](seu-linkedin) | [GitHub](seu-github)
+Victor Yudi Hagui - [LinkedIn](https://www.linkedin.com/in/victor-hagui/) 

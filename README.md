@@ -29,3 +29,6 @@ npm start
 ## 👨‍💻 Autor
 
 Victor Yudi Hagui - [LinkedIn](https://www.linkedin.com/in/victor-hagui/) 
+
+## Status do projeto
+Em desenvolvimento
